@@ -9,15 +9,16 @@
 To develop the Railway Reservation System using Star UML.
 
 # Problem Statement:
-1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
+1.The manual railway ticket booking system is time-consuming, error-prone, and inconvenient for both passengers and railway staff, especially during peak travel periods.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
+2.Passengers often face difficulties such as unavailability of real-time seat information, long queues at booking counters, and a lack of transparency in ticket status.
 
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+3.Railway authorities struggle to manage and update train schedules, coach configurations, ticket quotas, and passenger records using traditional systems.
 
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+4.There is a need for an automated, centralized Railway Reservation System that provides real-time access to train schedules, seat availability, fare details, and booking status.
 
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+5.The system should allow users to easily search trains, reserve or cancel tickets, view PNR status, and receive confirmation through SMS/email while ensuring secure payment processing.
+
 
 UML DIAGRAMS
 
